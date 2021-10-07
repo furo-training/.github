@@ -10,4 +10,4 @@ This repository can be used to store workflow templates. As long as this reposit
 1. Navigate to the starter workflow overview
 1. Observe the custom workflow showing up
 
-:bulb: If the workflow template dowsn't show up, it's most likely because the `.github` repository visibility is not **Public**.
+:bulb: If the workflow template doesn't show up, it's most likely because the `.github` repository visibility is not **Public**.
