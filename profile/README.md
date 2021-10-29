@@ -4,7 +4,6 @@ In this organization you will find multiple repositories used to demo the functi
 
 Each demo repo is prefixed with `demo-`, and will contain a `README.md` describing how to walk through it. 🍿
 
-:bulb: Some of the demo repositories are configured as templates, so that you can use them in a different organization if needed. 
-Make sure that you have reviewed the demo `README.md` first, so that you're sure the demo will function properly in the new organization (for example repository secrets will not be carried over to the new repository).
+:bulb: Some of the demo repositories are configured as templates, so that you can use them in a different organization or in your user account. Some demos contain features that are not available outside of GHEC/GHES, in these cases you will find info in each repo describing how to perform the demo.
 
-:bow: Thank you following the **Cleanup** steps after each demo.
+:bow: Thank you for following the **Cleanup** steps described in the `README`'s!
